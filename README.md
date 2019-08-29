@@ -1,5 +1,2 @@
 # INF251
-Trabalho
-Ariele Muniz
-Felipe Moreira
-Marcela Cupertino - 86481
+Ariele Muniz(95662), Marcela Cupertino(86481), Felipe de Mello(93741) 
